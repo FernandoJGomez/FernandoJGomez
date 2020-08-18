@@ -1,18 +1,18 @@
 ---
-title: "Joy Buongiorno - CV"
+title: "Fernando J. Gomez - CV"
 layout: textlay
-excerpt: "Joy Buongiorno -- CV"
+excerpt: "Fernando J. Gomez -- CV"
 sitemap: false
 permalink: /cv/
 ---
 ![](RackMultipart20200609-4-1273asn_html_110a81ce6820044b.gif)
 <p align="center" style="text-decoration:underline;">Curriculum Vitae</p>
 
-<p align="center"><b>Joy Buongiorno (Altom)</b><br>
+<p align="center"><b>Fernando J. Gomez</b><br>
 
-502 E. Lamar Alexander Parkway <br> Maryville, TN 37804<br>
+CICTERRA-Centro de Investigaciones en Ciencias de la Tierra <br> Velez Sarsfield 1611, Piso 2, Of. 4. <br> Ciudad Universitaria, Zip Code X5016GCA - Córdoba (Argentina) <br> Phone 54-0351-5353800 (ext. 30232) <br> Cell Phone 54-351-5164603 <br>
 
-joy.buongiorno@maryvillecollege.edu</p>
+fjgomez@unc.edu.ar</p>
 
 **Employment**
 
