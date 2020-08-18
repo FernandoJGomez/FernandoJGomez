@@ -79,13 +79,13 @@ The **Laguna Negra** is a high-altitude hypersaline lake where the pretty **extr
 
 **Hot springs, tufas and travertines lakes**<br>
 
-To move on from a hypersaline lakes such as the Laguna Negra into a different environment, we selected **high-altitude hot springs** in the Catamarca Province (Termas Los Hornos) to better understand an environment where mineral precipitation is typically controlled by physical-chemical processes such as $CO_2$ degassing and temperature changes where silica and carbonate precipitation is common. Here, with **Agustin Mors** (CICTERRA) and **Ricardo Astini** (CICTERRA) as well as external colleagues ( such as **Frank Corsetti**, University of Southern California) we try to understand the main controls in facies and microtextures of these sedimentary deposits and the biogeochemical signatures there preserved. 
+To move on from a hypersaline lakes such as the Laguna Negra into a different environment, we selected **high-altitude hot springs** in the Catamarca Province (Termas Los Hornos) to better understand an environment where mineral precipitation is typically controlled by physical-chemical processes such as $$CO_2$$ degassing and temperature changes where **silica** and **carbonate precipitation** are common. Here, with **Agustin Mors** (CICTERRA) and **Ricardo Astini** (CICTERRA) as well as external colleagues (such as **Frank Corsetti**, University of Southern California) we try to understand the main controls in **facies** and **microtextures** of these sedimentary deposits and the **biogeochemical signatures** there preserved. 
 
-**Basalt hosted lakes as Martian analogues**<br>
+**Creataceous lacustrine, marine-marginal carbonates**<br>
 
 **The Cambro-Ordovician Precordillera carbonate platform**<br>
 
-**Creataceous lacustrine, marine-marginal carbonates**<br>
+**Basalt hosted lakes as Martian analogues**<br>
 
 **Machine learning approach applied to carbonate geochemistry**<br>
 
