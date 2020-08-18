@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Joy Buongiorno"
+excerpt: "Fernando J. Gomez"
 sitemap: false
 permalink: /allnews.html
 ---
