@@ -1,4 +1,4 @@
-# Joy Buongiorno, PhD
+# Fernando J. Gomez, PhD
 
 You can access my website at [https://jbuongio.github.io/](https://jbuongio.github.io/)
 
