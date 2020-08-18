@@ -5,7 +5,7 @@ excerpt: "Website of Fernando J. Gomez"
 sitemap: false
 permalink: /
 ---
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Fer_profile_pic.png){: style="width: 25%; float: right; border: 5px"}  I am a researcher at the [CICTERRA, Centro de Investigaciones en Ciencias de la Tierra](http://cicterra.conicet.unc.edu.ar/en/) and a professor at the [Universidad Nacional de Cordoba](https://www.unc.edu.ar/english/). My research focus on several aspects including **basin-scale studies** (stratigraphy and sedimentology) **of carbonate sedimentary systems** as well as the **biogeochemistry** and **geomicrobiology** of carbonate precipitation. As a member of a multidisciplinary research group our goal is to understand physico-chemical and biological processes involved in carbonate precipitation and how we can use this information to understand the complex interactions between the **Geosphere** and the **Biosphere** and its evolution as preserved in the sedimentary rock record. Understanding **microbe-mineral interactions** and **biogeochemical cycling** of biologically significant elements (C, O, N, S, P, trace elements) and how this information is preserved in sedimentary carbonates is extremely important to define **biosignatures** (signals of biological activity). Thus, our research is also focused on **Astrobiology** where we use modern and ancient environments to study evidences of life (mostly microbial) in the sedimentary record on Earth and beyond.driven by the 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Fer_profile_pic.png){: style="width: 25%; float: right; border: 5px"}  I am a researcher at the [CICTERRA, Centro de Investigaciones en Ciencias de la Tierra](http://cicterra.conicet.unc.edu.ar/en/) and a professor at the [Universidad Nacional de Cordoba](https://www.unc.edu.ar/english/). My research focus on several aspects including **basin-scale studies** (stratigraphy and sedimentology) **of carbonate sedimentary systems** as well as the **biogeochemistry** and **geomicrobiology** of carbonate precipitation. As a member of a multidisciplinary research group our goal is to understand physico-chemical and biological processes involved in carbonate precipitation and how we can use this information to understand the complex interactions between the **Geosphere** and the **Biosphere** and its evolution as preserved in the sedimentary rock record. Understanding **microbe-mineral interactions** and **biogeochemical cycling** of biologically significant elements (C, O, N, S, P, trace elements) and how this information is preserved in sedimentary carbonates is extremely important to define **biosignatures** (signals of biological activity). Thus, our research is also focused on **Astrobiology** where we use modern and ancient environments to study evidences of life (mostly microbial) in the sedimentary record on Earth and beyond.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
@@ -84,13 +84,3 @@ permalink: /
 
 I am grateful for past and present funding from the [CONICET](https://www.conicet.gov.ar/), the [MINCYT](https://www.argentina.gob.ar/ciencia) and the [SECYT](https://www.unc.edu.ar/ciencia-y-tecnolog%C3%ADa/subsidios-secyt).
 
-
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
-	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SEPM.png" style="width: 90px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TSOP.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GSA.png" style="width: 90px">
-</figure>
