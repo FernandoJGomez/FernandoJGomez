@@ -20,16 +20,16 @@
   highlight: 1
   news2:
 
-#- title: "Complex microbial communities drive iron and sulfur cycling in Arctic fjord sediments"
-#  image: sediment.jpg
-#  description: Iron and sulfur cycling in Van Keulenfjord, Svalbard, is mediated both by abiotic chemical reactions as well as microbial metabolisms and byproducts. In this paper, we examined microbial community composition by 16S rRNA gene analysis and sedimentary organic matter at high depth resolution of 1 cm down to ~20 cm at two sites. Ordination analysis and microbial networks suggests that as glaciers retreat, microbial communities will become less complex and sulfate reducers will potentially outcompete microorganisms that respire iron and manganese. Code for analysis and figures can be found on my Github.   
-#  authors: J. Buongiorno, L.C. Herbert, L. M. Wehrmann, A. B. Michaud, K. Laufer, H. R&Oslash;y, B.B. J&Oslash;rgensen, A. Sznkiewicz, A. Faiia, K.M Yeager, K. Schindler, K.G. Lloyd
-#  doi: 10.1128/AEM.00949-19
-#  link:
-#    url: https://aem.asm.org/content/85/14/e00949-19
-#    display: Applied and Environmental Microbiology, 2019
-#  highlight: 1
-#  news2:
+- title: ”Microbialites in High-Altitude Andean Lakes: Multiple controls in carbonate precipitation and lamina accretion.” 
+  image: sediment.jpg
+  description: This was our first paper in the laguna Negra hypersaline system, focused on understanding the carbonate microtextures and isotope signature (carbon and oxygen) in the Laguna Negra oncoids and laminar crusts with the goal of understanding abiotic and biological processes controlling carbonate precipitation. 
+  authors: Gomez, F.J., Kah, L.C., Bartley, J., and Astini, R.A.
+  doi: https://doi.org/10.2110/palo.2013.049
+  link:
+    url: https://doi.org/10.2110/palo.2013.049
+    display: Palaios, 2014
+  highlight: 1
+  news2:
   
 #- title: "Interlaboratory Quantification of Bacteria and Archaea in Deeply Buried Sediments of the Baltic Sea (IODP Expedition 347)"
 #  image: microscope.jpg
