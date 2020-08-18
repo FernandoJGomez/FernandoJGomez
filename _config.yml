@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Fernando J. Gomez, PhD
-email: fjgomez@unc.edu.ar
+title: Joy Buongiorno, PhD
+email: JBuongiorno@carnegiescience.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Fernando J. Gomez
+  Joy Buongiorno
 baseurl: ""
-url: "https://github.com/FernandoJGomez/FernandoJGomez"
+url: "https://jbuongio.github.io/"
 
 include:
   - .htaccess
