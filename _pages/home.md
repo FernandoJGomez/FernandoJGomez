@@ -7,6 +7,8 @@ permalink: /
 ---
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Fer_profile_pic.png){: style="width: 25%; float: right; border: 5px"}  I am a researcher at the [CICTERRA, Centro de Investigaciones en Ciencias de la Tierra](http://cicterra.conicet.unc.edu.ar/en/) and a professor at the [Universidad Nacional de Cordoba](https://www.unc.edu.ar/english/). My research focus on several aspects including **basin-scale studies** (stratigraphy and sedimentology) **of carbonate sedimentary systems** as well as the **biogeochemistry** and **geomicrobiology** of carbonate precipitation. As a member of a multidisciplinary research group our goal is to understand physico-chemical and biological processes involved in carbonate precipitation and how we can use this information to understand the complex interactions between the **Geosphere** and the **Biosphere** and its evolution as preserved in the sedimentary rock record. Understanding **microbe-mineral interactions** and **biogeochemical cycling** of biologically significant elements (C, O, N, S, P, trace elements) and how this information is preserved in sedimentary carbonates is extremely important to define **biosignatures** (signals of biological activity). Thus, our research is also focused on **Astrobiology** where we use modern and ancient environments to study evidences of life (mostly microbial) in the sedimentary record on Earth and beyond.
 
+We work on modern and ancient environments and our focus is **carbonate sedimentology**, **biogeochemistry** and **geomicrobiology** under a diverse set of environmental conditions. This includes **hypsersaline** and **freshwater lakes**, **marine carbonates** as well as **hot springs** deposits (siliceous sinters, tufa and travertines).
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
@@ -69,9 +71,15 @@ permalink: /
 
 ### Research areas
 
+To cover a spectrum of environmental conditions these are teh selected research areas:
+
 **High-altitude hypersaline lakes**<br>
 
+The Laguna Negra is a high-altitude hypersaline lake where environmental conditions are similare to those interpreted for ancient sedimentary environments in the Archean as well as other planets as Mars. Over the years we have been working with several colleagues Cecilia Mlewski (CICTERRA), Emmanuelle Gerard and her group at IPGP, Paris (France), Flavia Boidi (CICTERRA), Joy Buongiorno and Linda C. Kah (University of Tennessee), Julie Barltey (University of Minnesota), Scott Beeler, Alex Bradley and David Fike (Washington University, Saint Louis, USA).
+
 **Hot springs, tufas and travertines lakes**<br>
+
+To better understand an environment where mineral precipitation is typically controlled by physical-chemical processes we selected high-altitude hot springs in the Catamarca Province (Termas Los Hornos) where silica and carbonate precipitation is common. Here, together with Agustin Mors (CICTERRA) and Ricardo Astini (CICTERRA) as well as external colleagues (Frank Corsetti, University of Southern California) we try to understand the main controls in facies and microtextures of these sedimentary deposits.
 
 **Basalt hosted lakes as Martian analogues**<br>
 
