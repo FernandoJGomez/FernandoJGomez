@@ -1,32 +1,10 @@
-- title: "Plate tectonics drive deep biosphere microbial community composition"
-  image:
-  description:
-  authors: Fullerton KM, Schrenk M, Yucel M, Manini E, Basili M, Rogers T, Fattorini D, di Carlo M, RegoliF, Nakagawa M, Smedile F, Vetriani C, Miller H, Morrison S, Buongiorno J, Jessen, G, Martinez M, de Moor JM, Barry PH, Giovannelli D, Lloyd K
-  year: 2019
-  link:
-    url: https://eartharxiv.org/gyr7n
-    display: EarthArxiv, doi 10.31223/osf.io/gyr7n
-  highlight: 0
-  news2:
-
-- title: "Woeseiales transcriptional response in Arctic fjord surface sediment"
-  image:
-  description:
-  authors: Buongiorno J, Sipes K, Wasmund K, Loy A, Lloyd KG
-  year: 2020
-  link:
-    url:
-    display: bioRxiv, doi 10.1101/2020.06.04.134015
-  highlight: 0
-  news2:
-  
-- title: "Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments"
-  image:
-  description:
-  authors: Lloyd, K, Bird, JT, Buongiorno J, Deas, E, Kevorkian R,  Noordhoek T, Rosalsky J, Roy T 
-  year: 2020
-  link:
-    url:
-    display: bioRxiv, doi 10.1101/2020.03.24.005512
-  highlight: 0
-  news2:  
+#- title: "Plate tectonics drive deep biosphere microbial community composition"
+#  image:
+#  description:
+#  authors: Fullerton KM, Schrenk M, Yucel M, Manini E, Basili M, Rogers T, Fattorini D, di Carlo M, RegoliF, Nakagawa M, Smedile F, Vetriani C, Miller H, Morrison S, Buongiorno J, Jessen, G, Martinez M, de Moor JM, Barry PH, Giovannelli D, Lloyd K
+#  year: 2019
+#  link:
+#    url: https://eartharxiv.org/gyr7n
+#    display: EarthArxiv, doi 10.31223/osf.io/gyr7n
+#  highlight: 0
+#  news2:
