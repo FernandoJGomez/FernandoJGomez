@@ -1,7 +1,7 @@
 ---
-title: "Joy Buongiorno website - Home"
+title: "Fernando J. Gomez website - Home"
 layout: homelay
-excerpt: "Website of Joy Buongiorno"
+excerpt: "Website of Fernando J. Gomez"
 sitemap: false
 permalink: /
 ---
