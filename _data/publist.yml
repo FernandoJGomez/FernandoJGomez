@@ -1,3 +1,14 @@
+- title: "Calcium carbonate precipitation within diatom-rich microbial mats: The Laguna Negra hypersaline lake, Catamarca (Argentina)"
+  image: thumb-Geobio_cover.jpg
+  description:  In this paper we combine different microscopy techniques as well as microbial diversity studies to understand microbial influence in carbonate precipitation. 
+  authors: Gomez, F.J., Mlewski, C., Boidi, F., Farías, M.E., Gerard, E.
+  doi: https://doi.org/10.2110/jsr.2018.37
+  link:
+    url: https://doi.org/10.2110/jsr.2018.37
+    display: Journal of Sedimentary Research, 2018
+  highlight: 1
+  news2:
+
 - title: "Mineralized microbialites as archives of environmental evolution, Laguna Negra, Catamarca Province, Argentina"
   image: thumb-Geobio_cover.jpg
   description: In this paper, we examined isotopic and elemental signatures in carbonate microbialites a.k.a microbially-mediated rocks. The concentric bands inside the rock preserve a time-series of lake evolution. Much like tree rings, these laminations allow reconstruction of lake history through interpretation of paired isotopes of carbon, sedimentary organic matter, and trace metal content. Code for analysis and figures can be found on my Github. 
