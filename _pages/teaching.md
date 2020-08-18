@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: textlay
-excerpt: "Joy Buongiorno -- Teaching"
+excerpt: "Fernando J. Gomez -- Teaching"
 sitemap: false
 permalink: /teaching/
 ---
