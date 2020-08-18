@@ -64,19 +64,11 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
+ 
 
 
-
-My academic journey may have seemed disjointed -- going from zoology, to geology, to microbiology. Independently, each of these fields do in fact use very different tools and have unique perspectives to offer. My inexhaustible curiously about nature and our place in space drove me to each of these fields. I'm a interdisciplinarian and understand that the marriage of knowledge gained from each discipline leads us to answer bigger questions about our universe than each discipline could answer alone.
-
-I am large supporter of science communication - read my blog post about it <a href= 'https://jbuongio.github.io/sci_comm'>here</a>. I believe in open science and the removal of paywalls between science and the people. I try to be as transparent as possible with my research by uploading all of my code, protocols, and data to GitHub and appropriate public data repositories. 
-
-
-### Dedication to practicing allyship
-
-Despite many programs, grants, and workshops aimed at increasing recruitment and retention of people of color in STEM fields, representation of scholars of color is [woefully lacking](https://academic.oup.com/bioscience/article/70/3/237/5714639). Dismantling the centries-old system that allows this to continue requires concerted and unapologetic efforts to decolonize science. This task falls on [administrators](https://www.chronicle.com/article/How-Higher-Ed-Can-Fight/248897?fbclid=IwAR3fxenrOTlDqy_AxFH7I0XqhVagVf2sn1UQ3TirqcOhTidb5RAf2zsQqBQ), [granting agencies](https://www.chronicle.com/article/Black-Scientists-Face-a-Big/248921?cid=wcontentlist_hp_latest), [educators](http://www.ascd.org/publications/newsletters/education-update/oct19/vol61/num10/How-to-Be-an-Antiracist-Educator.aspx), and [professional societies](https://www.ams.org/journals/notices/201802/rnoti-p149.pdf).
-
-As a STEM professional, I believe building my toolkit of allyship is an integral part of my job. Throughout my academic pursuits, I have been actively involved in numerous organizations and outreach programs to further the inclusion of women and minoritized students in STEM. I founded the Knoxville chapter of [500 Women Scientists](https://500womenscientists.org/updates/2017/4/12/knoxville-pod-of-the-week) in 2017 and through this, we provide scientific programming to young scholars of color in a partnership with [East Tennessee Freedom Schools](https://www.easttnfreedomschools.com/about1-c1x1t). In the wake of the devastating hurricane Maria in 2017, I organized a local science salon to raise money for researchers in hard-hit Puerto Rico. I was recognized as an extraordinary scientist advocate from the Union of Concerned Scientists for these efforts and have continued to place high priority on mentorship and outreach in my career. 
+### Research areas
+ 
 
 **Selected resource compilations:**<br>
 - <a href='https://ascnhighered.org/ASCN/posts/dei_resources.html'>Start somewhere: Resources on equity and inclusion for STEM and higher education</a><br>
