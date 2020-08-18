@@ -30,7 +30,7 @@ permalink: /teaching/
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/classpic/{{ publi.image }}" class="img-responsive" width="70%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/classpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: right" />
   
   <p>{{ publi.description }}</p><br>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
