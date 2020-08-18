@@ -79,9 +79,11 @@ The **Laguna Negra** is a high-altitude hypersaline lake where the pretty **extr
 
 **Hot springs, tufas and travertines lakes**<br>
 
-To move on from a hypersaline lakes such as the Laguna Negra into a different environment, we selected **high-altitude hot springs** in the Catamarca Province (Termas Los Hornos) to better understand an environment where mineral precipitation is typically controlled by physical-chemical processes such as \(CO_2\) degassing and temperature changes where **silica** and **carbonate precipitation** are common. Here, with **Agustin Mors** (CICTERRA) and **Ricardo Astini** (CICTERRA) as well as external colleagues (such as **Frank Corsetti**, University of Southern California) we try to understand the main controls in **facies** and **microtextures** of these sedimentary deposits and the **biogeochemical signatures** there preserved. 
+To move on from a hypersaline lakes such as the Laguna Negra into a different environment, we selected **high-altitude hot springs** in the Catamarca Province (**Termas Los Hornos**) to better understand an environment where mineral precipitation is typically controlled by physical-chemical processes such as **carbon dioxide degassing** and **temperature changes** and where **silica** and **carbonate precipitation** are common. Here, together with **Agustin Mors** (CICTERRA) and **Ricardo Astini** (CICTERRA) as well as external colleagues such as **Frank Corsetti** and his group (University of Southern California) we try to understand the main controls in **facies** and **microtextures** of these sedimentary deposits and the **biogeochemical signatures** these preserve. For example, recently we have focused on two specific **spheroidal particles**: **pisolites** and **spherulites** formed by the same fluid chemistry but under different environmental conditions. The Los Hornos pisolites were formed under agitated waters devoid of significan biological influence and the spherulites were formed under calm, low-energy conditions, colonized by a diverse microbial biosphere including abundan cyanobacteria and diatoms. These carbonate particles show remarkable textural and geochemical differences that we are exploring to better understand biotic and abiotic signatures and **biosignautres modifications** during **early diagenesis** in continental settings.  
 
 **Creataceous lacustrine, marine-marginal carbonates**<br>
+
+
 
 **The Cambro-Ordovician Precordillera carbonate platform**<br>
 
