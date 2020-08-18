@@ -1,7 +1,7 @@
 ---
-title: "Joy Buongiorno - Publications"
+title: "Fernando J. Gomez - Publications"
 layout: gridlay
-excerpt: "Joy Buongiorno -- Publications"
+excerpt: "Fernando J. Gomez -- Publications"
 sitemap: false
 permalink: /publications/
 ---
