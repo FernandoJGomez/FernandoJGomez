@@ -81,26 +81,8 @@ permalink: /
 
 **Machine learning approach applied to carbonate geochemistry**<br>
 
-**Selected resource compilations:**<br>
-- <a href='https://ascnhighered.org/ASCN/posts/dei_resources.html'>Start somewhere: Resources on equity and inclusion for STEM and higher education</a><br>
-- <a href='https://jbuongio.github.io/pdfs/ESS_ToolsRaceDiscussion_jcl_04092020.pdf'> Talking about Race in Earth and Space Science </a> compiled by <a href='https://scholar.google.com/citations?user=VOHXOvoAAAAJ&hl=en'>J. C. Lerback</a>.<br>
-- <a href='https://jbuongio.github.io/pdfs/Anti-racism_in_STEM_Academia_Self_Education_Resources.pdf'>Anti-racism in STEM & Academia Self Education Resources</a> by Aurora Roth, Kathleen McKee, Naomi Ochwat, and Anna Simpson. 
-<br>
-- <a href = 'https://docs.google.com/document/d/1gefAURNCvJJ3S7RutFX22vpfa47ouvQb0D82SKu0uJs/edit?usp=sharing'>School of Earth and Space Exploration Faculty Resource Grid</a> by Dr. Christy Till.<br>
-- <a href='https://docs.google.com/spreadsheets/d/10WHduTLtkrVXSOfjw7hm3A-PQZddcmC9XF6t8NeVsOw/edit#gid=0'>Diverse STEM researcher compilation</a> by Dr. Melanie Melendrez-Vallard<br>
-- <a href='https://www.higheredtoday.org/2016/07/27/understanding-and-combatting-microaggressions-in-postsecondary-education/'>Recognize Microagressions on Campus</a><br>
-- <a href = 'https://serc.carleton.edu/advancegeo/resources/index.html'> ADVANCEGeo Partnership</a>
-- <a href='https://www.particlesforjustice.org/'>Particles for Justice</a><br>
-- <a href='https://www.shutdownstem.com/resources'>#ShutDownSTEM</a><br>
-- <a href='https://implicit.harvard.edu/implicit/takeatest.html'> Test your implicit bias</a><br>
 
-
-
-
- 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/safe_zone.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
-
-I am grateful for past and present funding from the [Deep Carbon Observatory](https://deepcarbon.net), [NASA Astrobiology Institute](www.nasa.gov), [C-DEBI](c-debi.org), the [Explorer's Club](https://www.explorers.org/), the [Society for Sedimentary Geology](https://sepm.org), the [Society for Organic Petrology](https://tsop.org), and the [Geological Society of America](https://www.geosociety.org/).
+I am grateful for past and present funding from the [CONICET](https://www.conicet.gov.ar/ and the [MINCYT](https://www.argentina.gob.ar/ciencia).
 
 
 
