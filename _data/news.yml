@@ -1,4 +1,5 @@
 
 - date: 25 October, 2019
   headline: "We just submitted a PhD project for a new grad student to work on the sedimentology and geochemistry of Strobel lake, in Patagonia. Strobel lake is a basalt-hosted freshwater lake that we consider is a good Earth-based analogue environment for the Jezero crater lacustrine sedimentary deposits on Mars, where the Perseverance rover recently launched by NASA is going to land. Our plan is to study microbe-mineral interactions and biosignatures preservation in the Strobel Lake sedimentary deposits that may provide some insight to better understand Jezero crater sedimentary record. <br/>
-  <img src='/images/newspic/Strobel_carbonates_bird_view.png' style='max-width: 192px' /><br/>"
+  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/Strobel_carbonates_bird_view.png){: style="width: 70%; float: center; border: 5px"}"
+  #<img src='/images/newspic/Strobel_carbonates_bird_view.png' style='max-width: 192px' /><br/>"
