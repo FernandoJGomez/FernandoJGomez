@@ -82,7 +82,7 @@ permalink: /
 **Machine learning approach applied to carbonate geochemistry**<br>
 
 
-I am grateful for past and present funding from the [CONICET](https://www.conicet.gov.ar/ and the [MINCYT](https://www.argentina.gob.ar/ciencia).
+I am grateful for past and present funding from the [CONICET](https://www.conicet.gov.ar/), the [MINCYT](https://www.argentina.gob.ar/ciencia) and the [SECYT](https://www.unc.edu.ar/ciencia-y-tecnolog%C3%ADa/subsidios-secyt).
 
 
 
