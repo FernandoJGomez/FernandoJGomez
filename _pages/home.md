@@ -28,22 +28,22 @@ permalink: /
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/glacier.jpg" style="width:100%; height: 400px;" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LH_1.png" style="width:100%; height: 400px;" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group_photo_in_survival_suits.jpg" style="width:100%; height: 400px;" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LH_2.png" style="width:100%; height: 400px;" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/walrus3_orig.jpg" style="width:100%; height: 400px;" alt="Slide 3"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LH_3.png" style="width:100%; height: 400px;" alt="Slide 3"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg" style="width:100%; height: 400px;" alt="Slide 4"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LH_4.png" style="width:100%; height: 400px;" alt="Slide 4"  />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/salina.jpg" style="width:100%; height: 400px;" alt="Slide 5"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_1.png" style="width:100%; height: 400px;" alt="Slide 5"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fumaroles.jpg" style="width:100%; height: 400px;" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_2.png" style="width:100%; height: 400px;" alt="Slide 6" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" style="width:100%; height: 400px;" alt="Slide 7" />
