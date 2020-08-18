@@ -8,7 +8,7 @@ permalink: /teaching/
 
 # Teaching
 
-## Fall 2020
+##  2020 - 2021
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.classlist %}
