@@ -1,7 +1,7 @@
 ---
-title: "Joy Buongiorno - Field Photos"
+title: "Fernando J. Gomez - Field Photos"
 layout: gridlay
-excerpt: "Joy Buongiorno - Field Photos"
+excerpt: "Fernando J. Gomez - Field Photos"
 sitemap: false
 permalink: /field_photos/
 ---
