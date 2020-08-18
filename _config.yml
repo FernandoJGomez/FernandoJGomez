@@ -11,7 +11,7 @@ email: JBuongiorno@carnegiescience.edu
 description: > # this means to ignore newlines until "baseurl:"
   Joy Buongiorno
 baseurl: ""
-url: "https://jbuongio.github.io/"
+url: "https://fernandojgomez.github.io/FernandoJGomez/"
 
 include:
   - .htaccess
