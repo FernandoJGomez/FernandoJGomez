@@ -68,7 +68,18 @@ permalink: /
 
 
 ### Research areas
- 
+
+**High-altitude hypersaline lakes**<br>
+
+**Hot springs, tufas and travertines lakes**<br>
+
+**Basalt hosted lakes as Martian analogues**<br>
+
+**The Cambro-Ordovician Precordillera carbonate platform**<br>
+
+**Creataceous lacustrine, marine-marginal carbonates**<br>
+
+**Machine learning approach applied to carbonate geochemistry**<br>
 
 **Selected resource compilations:**<br>
 - <a href='https://ascnhighered.org/ASCN/posts/dei_resources.html'>Start somewhere: Resources on equity and inclusion for STEM and higher education</a><br>
