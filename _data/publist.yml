@@ -31,16 +31,16 @@
   highlight: 1
   news2:
     
-- title: "Controls of extreme isotopic enrichment in modern microbialites and associated abiogenic carbonates." 
-  image: Beeler_at_al.png
-  description: In this paper we focus on understanding the carbonate system in the Laguna Negra hypersaline lake and the Carbon, Oxygen and Hydrogen isotope spatial variability in the water and dissolved inorganic carbon and its relationship with the isotope signature recorded in the sedimentary carbonates.
-  authors: Beeler, S.R., Gomez, F.J., and Bradley, A.S.
-  doi: https://doi.org/10.1016/j.gca.2019.10.022
-  link:
-    url: https://doi.org/10.1016/j.gca.2019.10.022
-    display: Geochimica et Cosmochimica Acta, 2020
-  highlight: 0
-  news2:
+#- title: "Controls of extreme isotopic enrichment in modern microbialites and associated abiogenic carbonates." 
+#  image: Beeler_at_al.png
+#  description: In this paper we focus on understanding the carbonate system in the Laguna Negra hypersaline lake and the Carbon, Oxygen and Hydrogen isotope spatial variability in the water and dissolved inorganic carbon and its relationship with the isotope signature recorded in the sedimentary carbonates.
+#  authors: Beeler, S.R., Gomez, F.J., and Bradley, A.S.
+#  doi: https://doi.org/10.1016/j.gca.2019.10.022
+#  link:
+#    url: https://doi.org/10.1016/j.gca.2019.10.022
+#    display: Geochimica et Cosmochimica Acta, 2020
+#  highlight: 0
+#  news2:
   
 - title: "Coexisting active travertines and tufas in the southeastern border of the Puna plateau." 
   image: Mors_at_al.png
