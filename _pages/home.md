@@ -65,6 +65,7 @@ I am a researcher at the [CICTERRA, Centro de Investigaciones en Ciencias de la 
   </a>
 </div>
 
+Fernando Gomez.
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Fer_profile_pic.png){: style="width: 40%; float: left; border: 5px"} My academic journey may have seemed disjointed -- going from zoology, to geology, to microbiology. Independently, each of these fields do in fact use very different tools and have unique perspectives to offer. My inexhaustible curiously about nature and our place in space drove me to each of these fields. I'm a interdisciplinarian and understand that the marriage of knowledge gained from each discipline leads us to answer bigger questions about our universe than each discipline could answer alone.
 
 I am large supporter of science communication - read my blog post about it <a href= 'https://jbuongio.github.io/sci_comm'>here</a>. I believe in open science and the removal of paywalls between science and the people. I try to be as transparent as possible with my research by uploading all of my code, protocols, and data to GitHub and appropriate public data repositories. 
