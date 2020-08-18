@@ -31,47 +31,25 @@
   highlight: 1
   news2:
   
-#- title: "Interlaboratory Quantification of Bacteria and Archaea in Deeply Buried Sediments of the Baltic Sea (IODP Expedition 347)"
-#  image: microscope.jpg
-#  description: For many years following the first discovery of microbes in deeply-buried marine sediments, failure to find Archaea seemed like good evidence that the deep subsurface biosphere is a bacterial world. However, we hypothesized that this finding was a result of a methodological artifact that biases results toward bacteria. In this paper, we test this hypthosis. We found that instead, failure to identify Archaea rests with very high limits of detection for microscopy and suggested qPCR as a better method for quantification of biomass.      
-#  authors: Buongiorno J., Turner S. Webster G., Asai M., Shumaker A. K., Roy T., Weightman A, Schippers,  Lloyd K. G. 
-#  doi: 10.1093/femsec/fix007
-#  link:
-#    url: https://pubmed.ncbi.nlm.nih.gov/28104666/
-#    display: FEMS Microbiology Ecology, 2017
-#  highlight: 1
-#  news2:
+- title: "Microbialites in High-Altitude Andean Lakes: Multiple controls in carbonate precipitation and lamina accretion." 
+  image: LN_Palaios_cover.png
+  description: This was our first paper in the laguna Negra hypersaline system, focused on understanding the carbonate microtextures and isotope signature (carbon and oxygen) in the Laguna Negra oncoids and laminar crusts with the goal of understanding abiotic and biological processes controlling carbonate precipitation. 
+  authors: Gomez, F.J., Kah, L.C., Bartley, J., and Astini, R.A.
+  doi: https://doi.org/10.2110/palo.2013.049
+  link:
+    url: https://doi.org/10.2110/palo.2013.049
+    display: Palaios, 2014
+  highlight: 1
+  news2:
   
-#- title: "Draft Genome Sequence of Antarctic Methanogen enriched from Dry Valley Permafrost"
-#  image: 
-#  description: F
-#  authors: J. Buongiorno, J.T. Bird, K.G. Lloyd, T. Vishnivetskaya
-#  doi: 10.1128/genomeA.01362-16
-#  link:
-#    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5146446/
-#    display: Genome Announcments, 2016
-#  highlight: 0
-#  news2:
-  
-#- title: "Methanogens in the Antarctic Dry Valley Permafrost"
-#  image: Methanogen.jpg
-#  description: Methanogens generate the powerful greenhouse gas, methane. A large question with climate change is how thawing permafrost will affect the trajectory of methane dynamics -- will thawing lead to a positive feedback loop where more warming means more methane which means more warming? In this paper, we interrogated a methanogenic genome from Antarctica, the first ever recontructed from Antarctic permafrost. We found several different methane-generating pathways. Protein modeling highlights protein adaptations that allow this microbe to endure the harsh permafrost environment.  
-#  authors: J. Buongiorno, J.T. Bird, K.G. Lloyd, T. Vishnivetskaya
-#  doi: https://doi.org/10.1093/femsec/fiy109
-#  link:
-#    url: https://academic.oup.com/femsec/article/94/8/fiy109/5033399
-#    display: FEMS Microbiology Ecology, 2018
-#  highlight: 1
-#  news2:  
-  
-#- title: "Visualizing carbon mineral systems: Recent advances in C mineral evolution, mineral ecology, and network analysis"
-#  image: Review.jpg
-#  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
-#  authors: S.M Morrison, J. Buongiorno, R. T. Downs, A. Eleish, P. Fox, D. Giovannelli, J.T. Golden, D.R. Hummer, G. Hystad, L.H.Kellogg, O. Kreylos, S. Krivovichev, C. Liu, A. Merdith, A. Prabhu, J. Ralph, S. Runyon, S. Zahirovic, R.M. Hazen
-#  doi: 
-#  link:
-#    url: 
-#    display: In Press
-#  highlight: 1
-#  news2:  
+- title: "Controls of extreme iso- topic enrichment in modern microbialites and associated abiogenic carbonates." 
+  image: LN_Palaios_cover.png
+  description: This was our first paper in the laguna Negra hypersaline system, focused on understanding the carbonate microtextures and isotope signature (carbon and oxygen) in the Laguna Negra oncoids and laminar crusts with the goal of understanding abiotic and biological processes controlling carbonate precipitation. 
+  authors: Beeler, S.R., Gomez, F.J., and Bradley, A.S.
+  doi: https://doi.org/10.1016/j.gca.2019.10.022
+  link:
+    url: https://doi.org/10.1016/j.gca.2019.10.022
+    display: Geochimica et Cosmochimica Acta, 2020
+  highlight: 1
+  news2:
   
