@@ -71,11 +71,11 @@ We work on modern and ancient environments and our focus is **carbonate sediment
 
 ### Research areas
 
-To cover a spectrum of environmental conditions these are teh selected research areas:
+To cover a spectrum of environmental conditions where carbonate precipitation takes place, these are the selected research areas:
 
 **High-altitude hypersaline lakes**<br>
 
-The Laguna Negra is a high-altitude hypersaline lake where environmental conditions are similare to those interpreted for ancient sedimentary environments in the Archean as well as other planets as Mars. Over the years we have been working with several colleagues Cecilia Mlewski (CICTERRA), Emmanuelle Gerard and her group at IPGP, Paris (France), Flavia Boidi (CICTERRA), Joy Buongiorno and Linda C. Kah (University of Tennessee), Julie Barltey (University of Minnesota), Scott Beeler, Alex Bradley and David Fike (Washington University, Saint Louis, USA).
+The **Laguna Negra** is a high-altitude hypersaline lake where the pretty **extreme environmental conditions** (low water activity, high UV-radiation influx, extreme daily temperature changes, etc) are similar to those typically interpreted for some ancient sedimentary environments in the Early Earth (for example the Archean Tumbiana Formation) as well as other planets such as **Mars**. In the Laguna Negra we can observe a spectrum of conditions for carbonate mineral precipitation, from completely abiotic to biologically influenced. This results in the development of a wide carbonate belt represented by carbonate **stromatolite** and **oncoids** deposits that allow us to investigate microbial and physico-chemical controls on carbonate precipitation and the preservation of biosignatures. Over the years we have been actively working in this unusual site with different approaches and several colleagues such as Cecilia Mlewski (CICTERRA), Emmanuelle Gerard and her group at IPGP (Paris, France), Flavia Boidi (CICTERRA), Joy Buongiorno (Maryville College, TN, USA) and Linda C. Kah (University of Tennessee, TN, USA), Julie Barltey (University of Minnesota, USA), Scott Beeler, Alex Bradley and David Fike (Washington University, Saint Louis, USA). In addition, I have been invited to collaborate in the study similar sites in the area including **Pozo Bravo** y **Las Quinoas** with Dr. Maria Eugenia Farías (CONICET), Patricio Villafañe (CONICET) and Agustina Lencina (CONICET).
 
 **Hot springs, tufas and travertines lakes**<br>
 
