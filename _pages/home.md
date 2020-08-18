@@ -46,7 +46,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_2.png" style="width:100%; height: 400px;" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_JSR_cover.png" style="width:100%; height: 400px;" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LH_pisolites_spherulites.png" style="width:100%; height: 400px;" alt="Slide 7" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Strobel_carbonates_bird_view.png" style="width:100%; height: 400px;" alt="Slide 8"  />
