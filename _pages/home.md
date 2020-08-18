@@ -46,13 +46,13 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_2.png" style="width:100%; height: 400px;" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" style="width:100%; height: 400px;" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_JSR_cover.png" style="width:100%; height: 400px;" alt="Slide 7" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Strobel_carbonates_bird_view.png" style="width:100%; height: 400px;" alt="Slide 8"  />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting_orig.jpg" style="width:100%; height: 400px;" alt="Slide 9"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Beeler_et_al.png" style="width:100%; height: 400px;" alt="Slide 9"  />
         </div>               
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
