@@ -100,10 +100,10 @@ Some **recent papers** about this research (see details about full references in
 In the search for **Earth-based sedimentary environments** analogues for those recorded on **Mars**, we staterd working in the **Strobel Lake** in the Patagoni of Argentina. The Strobel lake is a **fresh-water lake** developed on a **basaltic bedrock** and a semi-arid climate, where a suite of sedimentary environments and related sedimentary deposits include **shallow** to **deep lacustrine deposits**, **fluvial** to **delta deposits**, and an extensive **carbonate belt** where abundant fossil and active **microbialites** (**stromatolites** and **thrombolites**) have been recorded. Our goal here, together with **Cecilia Mlewski** (microbiologist at CICTERRA) and **Emiliano Rivarola** (Geologist and PhD candidate at CICTERRA) is to study these deposits with an **astrobiological perspective** integrating **multispectral image analysis**, **sedimentology**, **biogeochemistry** and **geomicrobiology**. This site is interesting since fluid-rock interaction, weathering processes, authigenic mineral precipitation and associated geomicrobiological and biogeochemical processes must be similar (in some aspects) to those that could be observed or recorded on Mars surface. Particularly, since recently **NASA** has launched a probe (**Perseverance**, landing in february 2021) to explore the **lacustrine** and **delta** deposits of **Jezero Crater**, where also abundant carbonate sedimentary units have been recorded. This makes the Strobel lake a **fascinating planetary analogue for Jezero Crater**.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/strobel_website.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/strobel_website.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Jurassic Lake and Google Earth</font><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/jezero_strobel.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Mars images from Horgan et al., 2020, Icarus 339</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/jezero_strobel.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Mars images from Horgan et al., 2020, Icarus 339, Strobel image: Jurassic Lake</font><br><br>
 
 **Creataceous lacustrine, marine-marginal carbonates**<br>
 
