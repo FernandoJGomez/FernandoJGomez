@@ -120,7 +120,7 @@ In addition to the Lower Paleozoic deposits together with **Ricardo Astini** (CI
 
 Some **recent papers** about this research (see details about full references in my CV section) include Gomez and Astini (2005, 2006, 2015), Gomez et al., (2007), Carrera et al., (2017); and Teixeira et al., (2018).
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Beeler_et_al.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Beeler_et_al.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Google Earth</font><br><br>
 
 
 **Machine learning approach applied to carbonate geochemistry**<br>
