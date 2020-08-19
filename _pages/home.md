@@ -102,7 +102,8 @@ In the search for **Earth-based sedimentary environments** analogues for those r
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/strobel_website.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/jezero_strobel.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Mars images from Horgan et al., 2020, Icarus 339</font><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/jezero_strobel.png){: style="width: 120%; float: center; border: 3px"} <font size="1">Image credit: Mars images from Horgan et al., 2020, Icarus 339</font><br><br>
 
 **Creataceous lacustrine, marine-marginal carbonates**<br>
 
