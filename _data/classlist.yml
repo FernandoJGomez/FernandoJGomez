@@ -7,4 +7,26 @@
   highlight: 1
   news1: 1.) Evolution; 2.) Structure and Function; 3.) Information Flow and Storage; 4.) Transformation of Matter and Energy; 5.) Systems.
   news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
+  
+  
+- title: "Stratigraphy"
+  image: carbonate_system.png
+  description: This course is about sedimentology, stratigraphy and basin analysis- 
+  link:
+    url: https://openstax.org/details/books/biology-2e
+    display: OpenStax textbook, Biology 2e
+  highlight: 1
+  news1: 1.) Evolution; 2.) Structure and Function; 3.) Information Flow and Storage; 4.) Transformation of Matter and Energy; 5.) Systems.
+  news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
+  
+  
+- title: "Biogeochemistry"
+  image: carbonate_system.png
+  description: This course is about Biogeochemistry and Geobiology (Taugh as a visiting professor at Washington University, Saint Louis Fall 2020) - 
+  link:
+    url: https://openstax.org/details/books/biology-2e
+    display: OpenStax textbook, Biology 2e
+  highlight: 1
+  news1: 1.) Evolution; 2.) Structure and Function; 3.) Information Flow and Storage; 4.) Transformation of Matter and Energy; 5.) Systems.
+  news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
 
