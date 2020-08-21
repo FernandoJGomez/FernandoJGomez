@@ -84,7 +84,9 @@ The **Laguna Negra** is a **high-altitude hypersaline** lake where the **extreme
 Some **recent papers** of our research include (see details about full references in my CV section) Gomez et al (2014, 2018, 2020), Beeler et al (2020), Buongiorno et al (2019), Mlewski et al. (2018), Shalygyn et al. (2019), Boidi et al., (2020); Lencina et al., in prep. Villafañe et al., in press.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Beeler_et_al.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_field.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Gomez et al., 2018</font><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/LN_oncoids_cyanos.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Gomez et al., 2018; Mlewski et al., 2018</font><br><br>
 
 
 **Hot springs, tufas and travertines lakes**<br>
