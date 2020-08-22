@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Group members and collaborators
 
  **We are always open for people to join the team and collaborators** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
