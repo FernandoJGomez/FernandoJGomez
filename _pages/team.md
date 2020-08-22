@@ -1,14 +1,14 @@
 ---
-title: "Joy Buongiorno - Team"
+title: "Fernando Gomez - Collaborators"
 layout: gridlay
-excerpt: "Joy Buongiorno - Team members"
+excerpt: "Team members and collaborators"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are always open for people to join the team and collaborators** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [high school alumni](#high-school-alumni) [lab visitors](#lab-visitors). Read [more about me here]({{ site.url }}/myself.html).
