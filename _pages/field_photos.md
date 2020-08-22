@@ -7,7 +7,7 @@ permalink: /field_photos/
 ---
 
 
-# Field Photos
+# Research Photos
 
 
 {% assign number_printed = 0 %}
