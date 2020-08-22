@@ -1,12 +1,12 @@
-- title: "Carbonates Sedimentology and Geochemistry"
+- title: "Carbonate Sedimentology and Geochemistry"
   image: carbonate_system.png
   description: This course is about the sedimentology and geochemistry of carbonate sedimentary system from a basin-scale perspective all the way down to the microbe-mineral interactions involved in carbonate minerals precipitation and the biogeochemical signatures that carbonate sediments preserve - 
   link:
     url: https://openstax.org/details/books/biology-2e
     display: OpenStax textbook, Biology 2e
   highlight: 1
-  news1: 1.) Evolution; 2.) Structure and Function; 3.) Information Flow and Storage; 4.) Transformation of Matter and Energy; 5.) Systems.
-  news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
+  news1: Carbonate sediment components, classification, environments, carbonate geochemistry (trace elements and isotopes), carbonate reservoirs, etc.
+  #news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
   
   
 - title: "Stratigraphy"
