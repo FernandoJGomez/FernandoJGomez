@@ -5,6 +5,9 @@ excerpt: "Website of Fernando J. Gomez"
 sitemap: false
 permalink: /
 ---
+
+*“Somewhere, something incredible is waiting to be known.”* Carl Sagan
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Fer_profile_pic.png){: style="width: 25%; float: right; border: 5px"}  I am a researcher at the [CICTERRA, Centro de Investigaciones en Ciencias de la Tierra](http://cicterra.conicet.unc.edu.ar/en/) and a professor at the Geology Department in the [Universidad Nacional de Cordoba](https://www.unc.edu.ar/english/). During 2019 and 2020 I was a visiting professor in Sedimentology/Stratigraphy and Biogeochemistry at the [Earth and Planetary Sciences Department, Washington University (Saint Louis, USA)](https://eps.wustl.edu/).
 
 I am just a member of a **multidisciplinary group of people** that include geologists, paleontologists, microbiologists, chemists/geochemists and geophysicists with some common goals and interests, that over the years have been collaborating (formally or informally and in different ways) to answer some specific scientific questions that can be included in the broad field of **Geobiology**. These collaborations were essential to be able to accomplish some of our research goals, mostly given the scarcity of funding and resources that we face while doing science in Argentina. So, what is shown in this website is of course the work of all these people that I was lucky to meet, work and interact with and also the funding from the [CONICET](https://www.conicet.gov.ar/), the [MINCYT](https://www.argentina.gob.ar/ciencia) and the [SECYT](https://www.unc.edu.ar/ciencia-y-tecnolog%C3%ADa/subsidios-secyt).
