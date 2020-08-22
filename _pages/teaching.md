@@ -22,7 +22,7 @@ permalink: /teaching/
 
 <style>
         .well {
-            background-color: rgb(166, 171, 248);
+            background-color: rgb(207, 209, 247);
         }
     </style>
     
