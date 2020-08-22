@@ -6,7 +6,7 @@
     display: OpenStax textbook, Biology 2e
   highlight: 1
   news1: Carbonate sediment components, classification, environments, carbonate geochemistry (trace elements and isotopes), carbonate reservoirs, etc.
-  #news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
+  news2: \"Carbonates are born, not made.\" \-  Noel P. James
   
   
 - title: "Stratigraphy"
@@ -17,7 +17,7 @@
     display: OpenStax textbook, Biology 2e
   highlight: 1
   news1: 1.) Evolution; 2.) Structure and Function; 3.) Information Flow and Storage; 4.) Transformation of Matter and Energy; 5.) Systems.
-  news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
+  news2: \"No vestige of a beginning, no prospect of an end.\" \-  James Hutton (Theory of the Earth)
   
   
 - title: "Biogeochemistry"
@@ -28,5 +28,5 @@
     display: OpenStax textbook, Biology 2e
   highlight: 1
   news1: 1.) Evolution; 2.) Structure and Function; 3.) Information Flow and Storage; 4.) Transformation of Matter and Energy; 5.) Systems.
-  news2: \"From so simple a beginning, endless forms most beautiful and most wonderful have been, and are being, evolved.\" \-  Charles Darwin
+  news2: \"A veces creo que hay vida en otros planetas, a veces no. En cualquiera de los dos casos la conclusión es asombrosa.\" \-  Carl Sagan
 
