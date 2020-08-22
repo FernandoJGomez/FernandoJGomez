@@ -22,6 +22,12 @@ Jump to the bottom of the page to see a [full list of publications](#full-list) 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
+ 
+ <style>
+        .well {
+            background-color: rgb(209, 242, 215);
+        }
+    </style>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
