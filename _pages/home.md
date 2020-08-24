@@ -108,7 +108,7 @@ Some **recent papers** of our research include (see details about full reference
 Some **recent papers** about this research (see details about full references in my CV section) include Astini et al., (2018); Mors et al., (2019); Piersigilli et al., (2020); Mors et al., submitted.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/LH_2.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Agustin Mors and Dr. Fernando Gomez</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/los_hornos_fer_agus.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Agustin Mors and Dr. Fernando Gomez</font><br><br>
 
 
 **Basalt hosted lakes as Martian analogues**<br>
