@@ -147,7 +147,7 @@ o de Janeiro) looking at the pretty **unusual sedimentary carbonates of the Pre-
 
 Although most of our work wiht Petrobras was under a confidentiality agreement, some **work in preparation** about this research was authorized and will be ready to be published soon and this include some work we have done with **Lissie Falçao** and **Rogerio Schiffer** at CENPES, where we did some comparative analysis between Quaternary travertines in San Juan (Argenmtina) and some drill core of the pre-Salt carbonates that we interpreted as travertine deposits.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Fer_Rick_Cenpes.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Google Earth</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Fer_Rick_Cenpes.jpg){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Google Earth</font><br><br>
 
 **Machine learning approach applied to carbonate geochemistry**<br>
 
