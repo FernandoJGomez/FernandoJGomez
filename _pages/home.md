@@ -127,7 +127,7 @@ An interesting carbonate and mixed sedimentary system of Cretaceous age is recor
 
 Some **recent papers** about this research (see details about full references in my CV section) include Astini et al., (2020), Coppa Vigliocco et al., submitted.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/yaco_varias.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/yaco_varias.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Ariadna Coppa Vigliocco, Fernando Gomez</font><br><br>
 
 
 **The Cambro-Ordovician Precordillera carbonate platform and the Triassic rift related carbonates and siliciclastics**<br>
@@ -137,7 +137,7 @@ In addition to the Lower Paleozoic deposits together with **Ricardo Astini** (CI
 
 Some **recent papers** about this research (see details about full references in my CV section) include Gomez and Astini (2005, 2006, 2015), Gomez et al., (2007), Carrera et al., (2017); and Teixeira et al., (2018).
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/trombos_la_silla.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Google Earth</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/trombos_la_silla.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Fernando Gomez</font><br><br>
 
 
 **Understanding the pre-Salt reservoirs and their unusual carbonates**<br>
@@ -147,7 +147,7 @@ o de Janeiro) looking at the pretty **unusual sedimentary carbonates of the Pre-
 
 Although most of our work wiht Petrobras was under a confidentiality agreement, some **work in preparation** about this research was authorized and will be ready to be published soon and this include some work we have done with **Lissie Falçao** and **Rogerio Schiffer** at CENPES, where we did some comparative analysis between Quaternary travertines in San Juan (Argenmtina) and some drill core of the pre-Salt carbonates that we interpreted as travertine deposits.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/rick_fer_pre_salt_cenpes.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Google Earth</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/rick_fer_pre_salt_cenpes.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Fernando Gomez</font><br><br>
 
 **Machine learning approach applied to carbonate geochemistry**<br>
 
