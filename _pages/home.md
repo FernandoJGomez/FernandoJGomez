@@ -153,6 +153,6 @@ Although most of our work wiht Petrobras was under a confidentiality agreement, 
 
 **Data science** (classic **Statistics** as well as **Machine** and **Deep Learning**) has changed the way we do science, giving us the chance to deal with abundant and **multidimensional information**. Our work, because of the multidisciplinary nature of our approach, by integrating **microbial diversity data** (for example **metagenomics**), **geochemical**, **mineralogical** and **textural** data, produce a huge amount of information that can be challenging to use and intepret. **Machine learning** and **Deep learning** techniques allow us to find **patterns in data** in order to extract useful information for our purposes. For this reeason we are applying this approach to extract information from the different research sites we have been working on, particularly the Laguna Negra and Terma Los Hornos in order to explore the use of these techniques to extract **biosignatures** from geochemical and microbial diversity data, and preservation or alteration of these biosignatures.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Beeler_et_al.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/ML_los_hornos.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Fernando Gomez</font><br><br>
 
 
