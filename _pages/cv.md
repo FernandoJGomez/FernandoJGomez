@@ -23,16 +23,38 @@ fjgomez@unc.edu.ar</p>
 
 **Education and Professional Experience**
 
+- **Visiting Researcher at the IPGP** 2018 (Geobiosphère Actuelle et Primitive, Institut de Physique du Globe, Paris, and CNRS - Le Centre National de la Recherche Scientifique, Institut de   Minéralogie de Physique des Matériaux et Cosmochimie, L Université Pierre et Marie Curie, Paris, France). 
+- **Visiting Researcher at the IPGP** 2014 (Geobiosphère Actuelle et Primitive, Institut de Physique du Globe, Paris).
+- **Fulbright Scholar 2013**, Stable Isotope Biogeochemistry Lab, Dr. David Fike, Washington University, Saint Louis, United States of America.
+- **Geo-Exobiology Research Scholar** 2008-2009, Carbonate Sedimentology and Geochemistry Lab, Dr. Linda C. Kah, Earth and Planetary Sciences Department - University of Tennessee, United States of America.
+- **PhD Geology**, 2003-2008, Facultad de Ciencias Exáctas, Físicas y Naturales, Universidad Nacional de Córdoba.
+- **B.S. Geology**, 1997-2003, Facultad de Ciencias Exáctas, Físicas y Naturales, Universidad Nacional de Córdoba.
 
-**Publications**
+**Research interests**
 
+- Carbonate sedimentology (microfacies, diagenesis, geochemistry)
+- Geochemical evolution of carbonate systems through time
+- Stratigraphy and Basin Analysis
+- Geomicrobiology and biogeochemistry of carbonate systems
+- Astrobiology
 
-**Competitive Research Grants and Scholarships**
+**Grants and Fellowships**
 
+- **Fulbright Scholar Grant** 2013 (David Fike Stable Isotope Biogeochemistry Lab, Washington University, Saint Louis (Missouri, United States of America).
+- **NASA Planetary Biology Internship** 2008-2009 (Earth and Planetary Sciences Department - University of Tennessee).
+- **Wrigley Institute for Environmental Studies grant** to attend to the International Geobiology Course 2008 (June 11-July 10), University of Souther California (USA).
+- **CONICET Postdoctoral Fellowship** 2008 (Consejo Nacional de Investigaciones Científicas y Técnicas).
+- **CONICET PhD Fellowship** 2003,  (Consejo Nacional de Investigaciones Científicas y Técnicas). 
+ 
+**Awards**
 
-**Honors and Awards**
+- **Award Dr. Mario Iñiguez, Outstanding work 2014**, XIV Argentine Sedimentology Meeting, P. Madryn, Argentina.
+- **Fulbright Occasional Lecturer, Fund Travel Award 2013**. As a lecturer at the University of California, Riverside, United States of America.
+- **Best Educative Contribution Award, Cordobensis 2006**. Teaching in Science Program, Córdoba Science Agency.
+- **Best Contribution Award 2005**, Book Chapter: _Exploratory Frontiers in Argentina: Precordillera Region Basins_ VI Exploration and Development in Hydrocarbons Meeting, Mar del PlataPages 115-145.
+- **Award Dr. Mario Iñiguez, Outstanding work 2014**, X Argentine Sedimentology Meeting, San Luis, Argentina.
+              
 
-Extraordinary Scientist Advocate, Union of Concerned Scientists 2018
 
 
 
