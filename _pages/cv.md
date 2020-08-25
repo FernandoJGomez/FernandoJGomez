@@ -115,6 +115,3 @@ _In press and accepted_
 
 - **Gomez, F.J.**, Book in prep. Ecuaciones diferenciales y métodos numéricos en Geociencias: uso de Python To submit to Publicación Especial Asociación Argentina de Sedimentología.
 
-
-</br>
-</br>
