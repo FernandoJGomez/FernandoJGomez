@@ -60,7 +60,7 @@ _Under review and submitted_
 
 - Beeler, S.R., **Gomez, F.G.**, Bradley, A., _in review_. Geospatial insights into the controls of microbialite formation at Laguna Negra, Argentina, _Geobiology_.
 
-- Henderson, M, **Gomez, F.J.**, Anna Szynkiewiczc, A., Feltes, N., Serra, F., Albanesi, G., and Linda C. Kah, L.C., _in review_. Sulfur cycling in the Darriwilliam (Middle Ordovician) of Argentina: Implications for ocean circulation and the redox evolution of the Ordovician ocean.
+- Henderson, M, **Gomez, F.J.**, Anna Szynkiewiczc, A., Feltes, N., Serra, F., Albanesi, G., and Linda C. Kah, L.C., _in review_. Sulfur cycling in the Darriwilliam (Middle Ordovician) of Argentina: Implications for ocean circulation and the redox evolution of the Ordovician ocean. _Palaeoecology, Palaeoclimatology, Palaeogeography_
 
 - Boidi F.J., **Gomez, F.J.**, Flores, M.R., Mlewski, E.C., Gerard, E., Benzerara K., Farías, M.E., _in review_. Characterization of the Stratified Microbial Mat associated with oncoids in the hyper saline Laguna Negra (Argentinean Andes), _Microbial Ecology_.
 
@@ -76,11 +76,11 @@ _In press and accepted_
 
 - Astini, R.A., Coppa Vigliocco, A., **Gomez, F.J.**, 2020. Una cuña marina dominada por mareas en la base de la Fm. Lecho en el extremo Noroeste Argentino. _Revista de la Asociación Geológica Argentina_, 77:2.
 
-- Beeler, S.R., **Gomez, F.J.**, and Bradley, A.S., 2020. Controls of extreme isotopic enrichment in modern microbialites and associated abiogenic carbonates. _Geochimica et Cosmochimica Acta_.
+- Beeler, S.R., **Gomez, F.J.**, and Bradley, A.S., 2020. Controls of extreme isotopic enrichment in modern microbialites and associated abiogenic carbonates. _Geochimica et Cosmochimica Acta_, 269:136-149.
 
-- Mors, A., Astini, R.A., **Gomez, F.J.**, 2019. Coexisting active travertines and tufas in the Southeastern border of the Puna Plateau. _Sedimentary Geology_.
+- Mors, A., Astini, R.A., **Gomez, F.J.**, 2019. Coexisting active travertines and tufas in the Southeastern border of the Puna Plateau. _Sedimentary Geology_, 389:200-217.
 
-- Buongiorno, J., Kah, L.C., **Gomez, F.J., 2019**. Microbialites as archives of environmental evolution of a hypersaline lake basin: Laguna Negra, Catamarca Province, Argentina. _Geobiology_.
+- Buongiorno, J., Kah, L.C., **Gomez, F.J., 2018**. Microbialites as archives of environmental evolution of a hypersaline lake basin: Laguna Negra, Catamarca Province, Argentina. _Geobiology_, 1-24.
 
 - Teixeira, B.M.N., Astini, R.A., **Gomez, F.J.**, Morales, N., Pimentel, M.M., 2018. Source-to-sink analysis of continental rift sedimentation: Triassic Cuyo basin, Precordillera Argentina. _Sedimentary Geology_, 376:164-184.
 
