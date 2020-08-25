@@ -16,10 +16,10 @@ fjgomez@unc.edu.ar</p>
 
 **Academic position and employment**
 
-- Staff Researcher at CICTERRA, Centro de Investigaciones en Ciencias de la Tierra, CONICET-UNC
-- Visiting Professor in Sedimentology, Stratigraphy and Biogeochemistry, Department of Earth and Planetary Sciences (Washington University, Saint Louis (Missouri, USA) (2019-2020)
-- Professor in Stratigraphy and Historical Geology, and Carbonate Sedimentology and Geochemistry, Geology Department, FCEFyN, Universidad Nacional de Córdoba.
-- Invited Professor Stratigraphy and Historical Geology, Universidad Nacional de Tierra del Fuego, e Islas del Atlántico Sur (2017-2018).
+- **Staff Researcher at CICTERRA**, Centro de Investigaciones en Ciencias de la Tierra, CONICET-UNC
+- **Visiting Professor** in **Sedimentology, Stratigraphy and Biogeochemistry**, 2019-2020, **Department of Earth and Planetary Sciences (Washington University, Saint Louis (Missouri, USA)** (2019-2020)
+- **Professor** in **Stratigraphy and Carbonate Sedimentology and Geochemistry**, 2010-current, Geology Department, FCEFyN, **Universidad Nacional de Córdoba**.
+- **Invited Professor Stratigraphy** (2017-2018), **Universidad Nacional de Tierra del Fuego, e Islas del Atlántico Sur**.
 
 **Education and Professional Experience**
 
@@ -63,7 +63,6 @@ _Under review and submitted_
 - Henderson, M, **Gomez, F.J.**, Anna Szynkiewiczc, A., Feltes, N., Serra, F., Albanesi, G., and Linda C. Kah, L.C., _in review_. Sulfur cycling in the Darriwilliam (Middle Ordovician) of Argentina: Implications for ocean circulation and the redox evolution of the Ordovician ocean.
 
 - Boidi F.J., **Gomez, F.J.**, Flores, M.R., Mlewski, E.C., Gerard, E., Benzerara K., Farías, M.E., _in review_. Characterization of the Stratified Microbial Mat associated with oncoids in the hyper saline Laguna Negra (Argentinean Andes), _Microbial Ecology_.
-
 
 _In press and accepted_
 
@@ -111,6 +110,8 @@ _In press and accepted_
 
 - Best Contribution Award: Astini, R., Dávila, F.M., Lopez Gamundi, O., **Gomez, F.J.**, Collo, G., Ezpeleta, M., Martina, F., and Ortiz, A., 2005. _Cuencas de la Región Precordillerana. VI Congreso de Desarrollo y Exploración de Hidrocarburos_, Pages 115-145.
 
+_In preparation_
+
 - **Gomez, F.J.** and Astini, R., in prep. Unusual intraclastic rudstones: biogeochemical, diagenetic and sedimentary processes controlling early cementation of traces fossils. To submit to _Sedimentary Geology_.
 
 - **Gomez, F.J.**, Book in prep. Ecuaciones diferenciales y métodos numéricos en Geociencias: uso de Python To submit to Publicación Especial Asociación Argentina de Sedimentología.
@@ -127,20 +128,20 @@ _In press and accepted_
 
 **Industry activities**
 
-- STAN (Servicio Técnico de Alto Nivel) CONICET-CICTERRA - Consulting activities for PETROBRAS Oil Company (Brazil) 2010-Present. Contact information: Vania campinho, Petrobras, Ríoo de Janeiro, Brazil vcampinho@petrobras.com.br.
+- **STAN** (Servicio Técnico de Alto Nivel) CONICET-CICTERRA - **Consulting activities for PETROBRAS Oil Company** (Brazil) 2010-Present. Contact information: Vania campinho, Petrobras, Ríoo de Janeiro, Brazil vcampinho@petrobras.com.br.
 
-- Instructor for field and classroom courses for PETROBRAS employees training in Carbonate Sedimentology and Biogeochemstry. Contact information: Vania campinho, Petrobras, Río de Janeiro, Brazil vcampinho@petrobras.com.br.
+- **Instructor for field and classroom courses** for **PETROBRAS** employees training in Carbonate Sedimentology and Biogeochemstry. Contact information: Vania campinho, Petrobras, Río de Janeiro, Brazil vcampinho@petrobras.com.br.
 
 
-**Research funding**
+**Recent research funding**
 
-- Project PIP 2015-2017. _Sedimentology, geomicrobiology and biogeochemistry of continental carbonates: comparative studies of ancient and modern examples_. Project leader: Dr. Fernando J. Gomez.
+- **Project PIP 2015-2017**. _Sedimentology, geomicrobiology and biogeochemistry of continental carbonates: comparative studies of ancient and modern examples_. Project leader: Dr. Fernando J. Gomez.
 
-- Project SECYT-UNC 2014-2016. _Experimental silicification of biofilms and microbial mats from hypersaline lakes (Laguna Negra, Catamarca, Argentina): in situ and laboratory microbial taphonomy studies and its potential to understand early biosphere record_. Project leader: Dr. Fernando J. Gomez.
+- **Project SECYT-UNC 2014-2016**. _Experimental silicification of biofilms and microbial mats from hypersaline lakes (Laguna Negra, Catamarca, Argentina): in situ and laboratory microbial taphonomy studies and its potential to understand early biosphere record_. Project leader: Dr. Fernando J. Gomez.
 
-- International Cooperation Project CONICET-CNRS (Le Centre National de la Recherche Scientifique (Paris, France) (2015-2016). \textit{Microbial carbonate precipitation in hypersaline lakes: microbe-mineral interactions in extreme environments and their implication for CO2 storage in carbonates}.  Project leaders: Dr. Fernando J. Gomez, Dr. Emmanuelle Gèrard (Gèobiosphère actuelle et primitive Research Group, Institut de Physique du Globe de Paris) and Dr. Karim Benzerara (Institut de Mineralogie,  de Physique des Materiaux et de Cosmochimie, L'Universite Pierre et Marie Curie).\\
+- **International Cooperation Project CONICET-CNRS** (Le Centre National de la Recherche Scientifique (Paris, France) (2015-2016). \textit{Microbial carbonate precipitation in hypersaline lakes: microbe-mineral interactions in extreme environments and their implication for CO2 storage in carbonates}.  Project leaders: Dr. Fernando J. Gomez, Dr. Emmanuelle Gèrard (Gèobiosphère actuelle et primitive Research Group, Institut de Physique du Globe de Paris) and Dr. Karim Benzerara (Institut de Mineralogie,  de Physique des Materiaux et de Cosmochimie, L'Universite Pierre et Marie Curie).\\
 
-- Project PICT Bicentenario V N 2010-1788. _Estromatolitos y tapetes microbianos de Lagunas Andinas: Estudios de prospección, biodiversidad, metagenómica como base de la conservación y aplicación biotecnológica de ecosistemas nacionales estratégicos}. Project leader: Dra. María Eugenia Farías (PROIMI-CONICET), Project member: Dr. Fernando J. Gomez.
+- **Project PICT Bicentenario 2010-1788**. _Estromatolitos y tapetes microbianos de Lagunas Andinas: Estudios de prospección, biodiversidad, metagenómica como base de la conservación y aplicación biotecnológica de ecosistemas nacionales estratégicos}. Project leader: Dra. María Eugenia Farías (PROIMI-CONICET), Project member: Dr. Fernando J. Gomez.
 
 
 **Activities as editor**
