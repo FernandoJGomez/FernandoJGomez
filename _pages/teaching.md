@@ -10,6 +10,8 @@ permalink: /teaching/
 
 ##  2010 - 2021
 
+_“Learning is never cumulative, it is a movement of knowing which has no beginning and no end.” (Bruce Lee)_
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.classlist %}
 
