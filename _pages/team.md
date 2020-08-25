@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [high school alumni](#high-school-alumni) [lab visitors](#lab-visitors). Read [more about me here]({{ site.url }}/myself.html).
 
-## Staff
+## People
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -167,9 +167,4 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 </div>
 {% endif %}
 
-## Undergraduate Alumni
-
-## High School Alumni
-
-## Visitors
 
