@@ -115,3 +115,46 @@ _In press and accepted_
 
 - **Gomez, F.J.**, Book in prep. Ecuaciones diferenciales y métodos numéricos en Geociencias: uso de Python To submit to Publicación Especial Asociación Argentina de Sedimentología.
 
+
+**Teaching activities**
+
+- Visiting professor of Sedimentology, Stratigraphy and Biogeochemistry, Department of Earth and Planetary Sciences,  Washington University, Saint Louis, Missouri (USA) (2019-2020).
+- Professor of Stratigraphy and Historical Geology, FCEFyN, Universidad Nacional de Córdoba.
+- Professor in Carbonate Sedimentology and Geochemistry, FCEFyN, Universidad Nacional de Córdoba.
+- Invited Professor: Postgraduate Course _Estructura, metagenomica y funciones de comunidades microbianas de ambientes poco explorados_ San Miguel de Tucuman, Argentina.
+- Instructor Field Course 2017 for undergraduate students of the Washington University, Saint Louis, Missouri, USA, and Trinity College, Dublin, Ireland.
+
+
+**Industry activities**
+
+- STAN (Servicio Técnico de Alto Nivel) CONICET-CICTERRA - Consulting activities for PETROBRAS Oil Company (Brazil) 2010-Present. Contact information: Vania campinho, Petrobras, Ríoo de Janeiro, Brazil vcampinho@petrobras.com.br.
+
+- Instructor for field and classroom courses for PETROBRAS employees training in Carbonate Sedimentology and Biogeochemstry. Contact information: Vania campinho, Petrobras, Río de Janeiro, Brazil vcampinho@petrobras.com.br.
+
+
+**Research funding**
+
+- Project PIP 2015-2017. _Sedimentology, geomicrobiology and biogeochemistry of continental carbonates: comparative studies of ancient and modern examples_. Project leader: Dr. Fernando J. Gomez.
+
+- Project SECYT-UNC 2014-2016. _Experimental silicification of biofilms and microbial mats from hypersaline lakes (Laguna Negra, Catamarca, Argentina): in situ and laboratory microbial taphonomy studies and its potential to understand early biosphere record_. Project leader: Dr. Fernando J. Gomez.
+
+- International Cooperation Project CONICET-CNRS (Le Centre National de la Recherche Scientifique (Paris, France) (2015-2016). \textit{Microbial carbonate precipitation in hypersaline lakes: microbe-mineral interactions in extreme environments and their implication for CO2 storage in carbonates}.  Project leaders: Dr. Fernando J. Gomez, Dr. Emmanuelle Gèrard (Gèobiosphère actuelle et primitive Research Group, Institut de Physique du Globe de Paris) and Dr. Karim Benzerara (Institut de Mineralogie,  de Physique des Materiaux et de Cosmochimie, L'Universite Pierre et Marie Curie).\\
+
+- Project PICT Bicentenario V N 2010-1788. _Estromatolitos y tapetes microbianos de Lagunas Andinas: Estudios de prospección, biodiversidad, metagenómica como base de la conservación y aplicación biotecnológica de ecosistemas nacionales estratégicos}. Project leader: Dra. María Eugenia Farías (PROIMI-CONICET), Project member: Dr. Fernando J. Gomez.
+
+
+**Activities as editor**
+
+- Asociate Editor, _Latin American Journal of Sedimentology and Basin Analysis_
+
+**Peer reviewing**
+
+- _Geology_
+- _Journal of South American Earth Sciences_.
+- _Sedimentary Geology_.
+- _Palaeoecology, Palaeoclimatology, Palaeogeography_.
+- _LAJSBA Latin American Journal of Sedimentology and Basin Analysis_.
+- _Acta Geológica Lilloana_.
+- _Revista Asociación Geológica Argentina_.
+
+
