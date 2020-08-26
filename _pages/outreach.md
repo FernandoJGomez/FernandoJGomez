@@ -9,11 +9,19 @@ permalink: /outreach/
 
 <p align="center">
   
-# “Learning is never cumulative, it is a movement of knowing which has no beginning and no end.” (Bruce Lee)
+# _“Learning is never cumulative, it is a movement of knowing which has no beginning and no end.”_ (Bruce Lee)
 
-# “Empty your mind. Be formless, shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.” (Bruce Lee)
+</p>
 
-**“Somewhere, something incredible is waiting to be known.”** *Carl Sagan*
+<p align="center">
+
+# _“Empty your mind. Be formless, shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.”_ (Bruce Lee)
+
+</p>
+
+<p align="center">
+  
+# _“Somewhere, something incredible is waiting to be known.”_ (Carl Sagan)
 
 </p>
 
