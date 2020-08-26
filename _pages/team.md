@@ -13,6 +13,19 @@ permalink: /team/
 ## People
 **People in this section are my closest collaborators that have a lot to do with what is shown in this research website.**
 
+<p>&nbsp;</p>
+
+<p align="center">
+
+**"Ubuntu ngumuntu ngabantu** (_I am because we are and I am human because I belong_)" Proverbio Zulu. <br>
+
+El concepto de _Ubuntu_ is an African philosophy that places emphasis on **'Being human through other people'**. It has been succinctly expressed in the phrase _I am because of who we all are_ (Mugumbate and Nyanguru, 2013. _African Journal of Social Work_, 3(1):82-100)
+
+</p>
+
+<p>&nbsp;</p>
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
