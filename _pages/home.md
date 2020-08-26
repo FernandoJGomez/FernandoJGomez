@@ -29,7 +29,7 @@ This people include: **Cecilia Mlewski**, **Flavia Boidi**, **Ariadna Coppa Vigl
 
 El concepto de _Ubuntu_ is an African philosophy that places emphasis on **'Being human through other people'**. <br>
 
-It has been succinctly expressed in the phrase _I am because of who we all are_
+It has been succinctly expressed in the phrase _I am because of who we all are_ (Mugumbate and Nyanguru, 2013. _African Journal of Social Work_, 3(1):82-100)
 
 </p>
 
