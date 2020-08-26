@@ -10,3 +10,5 @@ permalink: /outreach/
 
 
 # Outreach activities
+
+[What do we do in two minutes, videos at the CICTERRA website (in spanish)](http://cicterra.conicet.unc.edu.ar/investigadores/fernando-j-gomez/)
