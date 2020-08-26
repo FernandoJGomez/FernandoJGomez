@@ -11,6 +11,8 @@ permalink: /team/
  **We are always open for people to join the team and collaborators** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## People
+People in this section are my closest collaborators that have a lot to do with what is shown in this research website.
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
