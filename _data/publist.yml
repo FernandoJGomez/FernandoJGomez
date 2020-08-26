@@ -67,11 +67,22 @@
   
 - title: "The Carbonate System in Hypersaline Lakes: The Case of Laguna Negra (in the Puna Region of Catamarca, Argentina)." 
   image: springer_book.jpg
-  description:  Here we review some geenral aspect of the carbonate system in the Laguna Negra and similar lakes in the region.
+  description:  Here we review some general aspects of the carbonate system in the Laguna Negra and similar lakes in the region.
   authors: Gomez, F.J., Boidi, F.J., Mlewski, C.E., Gerard, E. 
   doi: 978-3-030-36192-1
   link:
     url: https://doi.org/10.1007/978-3-030-36192-1_16
+    display: Microbial Ecosystems in Central Andes Extreme Environments, 2020
+  highlight: 1
+  news2:
+  
+- title: "Characterization of Microbialites and Microbial Mats of the Laguna Negra Hypersaline Lake (Puna of Catamarca, Argentina)." 
+  image: springer_book.jpg
+  description:  Here we review some general aspects of the micro-textures of the Laguna Negra microbial carbonates and diversity of the associated microbial mats.
+  authors: Boidi, F.J., Mlewski, C.E., Gomez, F.J., Gerard, E.
+  doi: 978-3-030-36192-1
+  link:
+    url: https://doi.org/10.1007/978-3-030-36192-1_13
     display: Microbial Ecosystems in Central Andes Extreme Environments, 2020
   highlight: 1
   news2:
