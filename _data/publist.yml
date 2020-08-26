@@ -80,7 +80,7 @@
   link:
     url: https://doi.org/10.1007/978-3-030-36192-1_16
     display: Microbial Ecosystems in Central Andes Extreme Environments,
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Characterization of Microbialites and Microbial Mats of the Laguna Negra Hypersaline Lake (Puna of Catamarca, Argentina)" 
@@ -104,5 +104,5 @@
   link:
     url:  https://doi.org/10.1017/jpa.2016.145
     display: Journal of Paleontology,
-  highlight: 0
+  highlight: 1
   news2:
