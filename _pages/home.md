@@ -25,8 +25,11 @@ This people include: **Cecilia Mlewski**, **Flavia Boidi**, **Ariadna Coppa Vigl
 
 <p align="center">
 
-**“Ubuntu ngumuntu ngabantu (I am because we are and I am human because I belong)”** *Proverbio Zulu*. <br>
-El concepto de _Ubuntu_ is an African philosophy that places emphasis on **'Being human through other people'**. It has been succinctly expressed in the phrase _I am because of who we all are_
+**"Ubuntu ngumuntu ngabantu** (_I am because we are and I am human because I belong_)" Proverbio Zulu. <br>
+
+El concepto de _Ubuntu_ is an African philosophy that places emphasis on **'Being human through other people'**. <br>
+
+It has been succinctly expressed in the phrase _I am because of who we all are_
 
 </p>
 
