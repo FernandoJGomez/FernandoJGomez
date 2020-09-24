@@ -58,6 +58,7 @@ fjgomez@unc.edu.ar</p>
 
 _Under review and submitted_
 
+- Coppa Viggliocco, A., Astini, R.A., **Gomez, F.J.**, _submitted_. Ooids diversity in the Upper Cretaceous of Argentina. _Sedimentology_.
 - Beeler, S.R., **Gomez, F.G.**, Bradley, A., _in review_. Geospatial insights into the controls of microbialite formation at Laguna Negra, Argentina, _Geobiology_.
 
 - Henderson, M, **Gomez, F.J.**, Anna Szynkiewiczc, A., Feltes, N., Serra, F., Albanesi, G., and Linda C. Kah, L.C., _in review_. Sulfur cycling in the Darriwilliam (Middle Ordovician) of Argentina: Implications for ocean circulation and the redox evolution of the Ordovician ocean. _Palaeoecology, Palaeoclimatology, Palaeogeography_
