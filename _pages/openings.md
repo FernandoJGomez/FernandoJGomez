@@ -1,12 +1,11 @@
 ---
-title: "Vacancies""
+title: "EUROPLANET 2024""
 layout: textlay
-excerpt: "Openings"
+excerpt: "Europlanet 2024"
 sitemap: false
-permalink: /vacancies
+permalink: /europlanet
 ---
 
-# Open positions
+# Europlanet 2024 RI TA-PFA
 
-We are always looking for new group members with passion, talent, and grit!
-There are no open calls at this moment, but feel free to contact us!
+Here we have the Europlanet project
