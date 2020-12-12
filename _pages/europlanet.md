@@ -1,7 +1,7 @@
 ---
-title: "EUROPLANET 2024""
+title: "EUROPLANET 2024 RI""
 layout: textlay
-excerpt: "Europlanet 2024"
+excerpt: "Europlanet 2024 RI"
 sitemap: false
 permalink: /europlanet/
 ---
