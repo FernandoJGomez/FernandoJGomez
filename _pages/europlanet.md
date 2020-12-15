@@ -1,5 +1,5 @@
 ---
-title: "EUROPLANET 2024 RI""
+title: "EUROPLANET 2024 RI"
 layout: textlay
 excerpt: "Europlanet 2024 RI"
 sitemap: false
