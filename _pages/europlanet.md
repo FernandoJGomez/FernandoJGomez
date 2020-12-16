@@ -10,7 +10,7 @@ permalink: /europlanet/
 
 This project has received funding from the **European Union's Horizon 2020 research and innovation programme** under grant agreement No 871149.
 
-# Europlanet 2024 RI TA-PFA
+# Europlanet 2024 RI TA-PFA ([For details see the official website here](https://www.europlanet-society.org/europlanet-2024-ri/))
 
 **Dr. Fernando J. Gomez** together with **Dr. Mateo Martini** participate in the program titled: **the Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)** to provide terrestrial geological-geomorphological analogues for volcanic, dry-and humid-cold, hot, highly saline and metalliferous and impact conditions for studies in support of current and forthcoming missions to Mars, the Moon and the icy moons of Jupiter. This enable researchers to undertake multi-disciplinary research programmes in support of planetary missions. As stated in [Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)](https://www.europlanet-society.org/europlanet-2024-ri/ta1-pfa/) some of the goals are:
 
