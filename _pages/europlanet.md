@@ -14,6 +14,11 @@ This project has received funding from the **European Union's Horizon 2020 resea
 
 ## Trasnational Access for Planetary Field Analogues (TA-PFA)
 
+**Contact info**:
+
+- **Dr. Fernando J. Gomez**, *CICTERRA-CONICET-UNC* (fjgomez@unc.edu) 
+- **Dr. Mateo Martini**, *CICTERRA-CONICET-UNC* (mmartini@unc.edu.ar)
+
 ## Cold, extreme glacial and lacustrine environments of the Andes of Argentina Puna region: Dry-cold environments
 
 The high-altitude Puna Plateau (4000-6000 meters a.s.l.) of Northwest Argentina (Salta, Jujuy and Catamarca provinces; 22-28º SL) is subject to a cold, arid climate. The area is characterized by hundreds of hypersalinelakes, glaciers, rock glaciers, hydrothermal systems, and environmental extremes with high-UV influx, low water activity, extreme daily temperature fluctuations (> 40ºC), strong winds (gravel dunes due to winds up to 400 km/h, Puruya and Carachi Pampa areas), and a volcanic-dominated geological settings. All these features make the region ideal as a planetary analogue for Mars and other icy planets/moons environments. There are notable interactions between hydrothermal systems, hypersaline lakes and glaciers, both ice and rock. Given the extreme environments, when present life is typically microbial. Locally preserved stromatolites also record evidence of life forms under past climate conditions.
