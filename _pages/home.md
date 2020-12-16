@@ -14,6 +14,8 @@ permalink: /
 
 </p>
 
+**"Somewhere, something incredible is waiting to be known."** *Carl Sagan*
+
 <p>&nbsp;</p>
 
 
