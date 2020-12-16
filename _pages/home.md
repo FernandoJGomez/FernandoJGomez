@@ -12,11 +12,21 @@ permalink: /
 
 **"Somewhere, something incredible is waiting to be known."** *Carl Sagan*
 
+</p>
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+<p align="center">
+
 **"If the result confirms the hypothesis, then you've made a measurement.  If the result is contrary to the hypothesis, then you've made a discovery."** *Enrico Fermi*
 
 </p>
 
 <p>&nbsp;</p>
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Fer_rounded_pic.png){: style="width: 25%; float: right; border: 5px"}  I am a researcher at the [CICTERRA, Centro de Investigaciones en Ciencias de la Tierra](http://cicterra.conicet.unc.edu.ar/en/) and a professor at the Geology Department, in the [Universidad Nacional de Cordoba](https://www.unc.edu.ar/english/). During 2019 and 2020 I was a visiting professor in Sedimentology/Stratigraphy and Biogeochemistry at the [Earth and Planetary Sciences Department, Washington University (Saint Louis, USA)](https://eps.wustl.edu/).
 
