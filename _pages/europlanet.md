@@ -12,6 +12,15 @@ This project has received funding from the **European Union's Horizon 2020 resea
 
 # Europlanet 2024 RI TA-PFA
 
+Together with Mateo Martini we participate in the program titled: **the Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)** to provide terrestrial geological-geomorphological analogues for volcanic, dry-and humid-cold, hot, highly saline and metalliferous and impact conditions for studies in support of current and forthcoming missions to Mars, the Moon and the icy moons of Jupiter. This enable researchers to undertake multi-disciplinary research programmes in support of planetary missions. As stated in [Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)](https://www.europlanet-society.org/europlanet-2024-ri/ta1-pfa/) some of the goals are:
+
+- Quantify the complex (bio) geo-chemical feed-back processes that control planetary evolution.
+- Develop quantified models to explain observations of planets in our Solar System from rovers, orbiting instruments, and ground-based observations and (potentially) interpret data from exoplanets.
+- Study the processes that influence the adaption of life to extreme conditions.
+- Test our ability to detect unambiguously records of past or present biological activity.
+- Test new instrumentation and operational systems for future planetary space missions under fully operational conditions.
+
+
 ## Trasnational Access for Planetary Field Analogues (TA-PFA)
 
 **Contact info**:
