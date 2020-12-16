@@ -12,7 +12,7 @@ This project has received funding from the **European Union's Horizon 2020 resea
 
 # Europlanet 2024 RI TA-PFA
 
-Together with Mateo Martini we participate in the program titled: **the Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)** to provide terrestrial geological-geomorphological analogues for volcanic, dry-and humid-cold, hot, highly saline and metalliferous and impact conditions for studies in support of current and forthcoming missions to Mars, the Moon and the icy moons of Jupiter. This enable researchers to undertake multi-disciplinary research programmes in support of planetary missions. As stated in [Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)](https://www.europlanet-society.org/europlanet-2024-ri/ta1-pfa/) some of the goals are:
+**Dr. Fernando J. Gomez** together with **Dr. Mateo Martini** participate in the program titled: **the Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)** to provide terrestrial geological-geomorphological analogues for volcanic, dry-and humid-cold, hot, highly saline and metalliferous and impact conditions for studies in support of current and forthcoming missions to Mars, the Moon and the icy moons of Jupiter. This enable researchers to undertake multi-disciplinary research programmes in support of planetary missions. As stated in [Europlanet 2024 RI’s TA1 Planetary Field Analogues (PFA)](https://www.europlanet-society.org/europlanet-2024-ri/ta1-pfa/) some of the goals are:
 
 - Quantify the complex (bio) geo-chemical feed-back processes that control planetary evolution.
 - Develop quantified models to explain observations of planets in our Solar System from rovers, orbiting instruments, and ground-based observations and (potentially) interpret data from exoplanets.
@@ -20,7 +20,8 @@ Together with Mateo Martini we participate in the program titled: **the Europlan
 - Test our ability to detect unambiguously records of past or present biological activity.
 - Test new instrumentation and operational systems for future planetary space missions under fully operational conditions.
 
-Dr. Fernando J. Gomez and Dr. Mateo Martini, both researchers at CICTERRA have a long experience in conducting field campaigns in collaborative research projects with international colleagues from both academic (fieldtrips for Washington University, Saint Louis, USA and Trinity College Dublin, Ireland), agency (e.g., NASA) and industry (e.g. > 15 visits from the oil company Petrobras). There were 28 academic visitors in last 3 years of which 19 were international. The facility will be managed by Dr. Fernando Gomez, assisted by Dr. Mateo Martini with administrative and practical support for TA visitors provided by the CICTERRA and CONICET.
+Dr. **Fernando J. Gomez** and **Dr. Mateo Martini**, both researchers at CICTERRA have a long experience in conducting field campaigns in collaborative research projects with international colleagues from both academic (fieldtrips for Washington University, Saint Louis, USA and Trinity College Dublin, Ireland), agency (e.g., NASA) and industry (e.g. > 15 visits from the oil company Petrobras). There were 28 academic visitors in last 3 years of which 19 were international. The facility will be managed by Dr. Fernando Gomez, assisted by Dr. Mateo Martini with administrative and practical support for TA visitors provided by the CICTERRA and CONICET.
+**Fernando J. Gomez** is part of the working group on **Planetary Environments and Habitability**, in the **European Astrobiology Institute** (contact: Ana.Plesa@dlr.de).
 
 **Contact info**:
 
