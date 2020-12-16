@@ -16,8 +16,9 @@ This project has received funding from the **European Union's Horizon 2020 resea
 
 **Contact info**:
 
-- **Dr. Fernando J. Gomez**, *CICTERRA-CONICET-UNC* (fjgomez@unc.edu) 
+- **Dr. Fernando J. Gomez**, *CICTERRA-CONICET-UNC* (fjgomez@unc.edu.ar) 
 - **Dr. Mateo Martini**, *CICTERRA-CONICET-UNC* (mmartini@unc.edu.ar)
+-**CICTERRA website**: http://cicterra.conicet.unc.edu.ar/es/
 
 ## Cold, extreme glacial and lacustrine environments of the Andes of Argentina Puna region: Dry-cold environments
 
