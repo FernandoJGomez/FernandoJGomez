@@ -6,12 +6,11 @@ sitemap: false
 permalink: /europlanet/
 ---
 
-# Europlanet 2024 RI TA-PFA
+![]({{ site.url }}{{ site.baseurl }}/images/europlanet_logo.png){: style="width: 60%; float: center; border: 3px"} <font size="1"></font><br><br>
 
 This project has received funding from the **European Union's Horizon 2020 research and innovation programme** under grant agreement No 871149.
 
-![]({{ site.url }}{{ site.baseurl }}/images/europlanet_logo.png){: style="width: 100%; float: center; border: 3px"} <font size="1"></font><br><br>
-
+# Europlanet 2024 RI TA-PFA
 
 ## Trasnational Access for Planetary Field Analogues (TA-PFA)
 
