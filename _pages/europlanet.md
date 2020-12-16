@@ -25,7 +25,7 @@ Together with Mateo Martini we participate in the program titled: **the Europlan
 
 **Contact info**:
 
-- **Dr. Fernando J. Gomez**, *CICTERRA-CONICET-UNC* (fjgomez@unc.edu.ar) 
+- **Dr. Fernando J. Gomez**, *CICTERRA-CONICET-UNC* (fjgomez@unc.edu.ar) ([research website](https://fernandojgomez.github.io/FernandoJGomez//))
 - **Dr. Mateo Martini**, *CICTERRA-CONICET-UNC* (mmartini@unc.edu.ar)
 - [CICTERRA website**](http://cicterra.conicet.unc.edu.ar/es/)
 
