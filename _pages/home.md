@@ -10,7 +10,9 @@ permalink: /
 
 <p align="center">
 
-**“Somewhere, something incredible is waiting to be known.”** *Carl Sagan*
+**"Somewhere, something incredible is waiting to be known."** *Carl Sagan*
+
+**"If the result confirms the hypothesis, then you've made a measurement.  If the result is contrary to the hypothesis, then you've made a discovery."** *Enrico Fermi*
 
 </p>
 
