@@ -59,9 +59,11 @@ fjgomez@unc.edu.ar</p>
 
 _Under review and submitted_
 
+- Mors, R.A., **Gomez, F.J.**, Astini, R.A., Celestian, A.J., Corsetti, F.A., Spheroidal carbonate particles within a travertine system in the border of the Puna Plateau. _Sedimentology_.
+
 - Coppa Viggliocco, A., Astini, R.A., **Gomez, F.J.**, _submitted_. Ooids diversity in the Upper Cretaceous of Argentina. _Sedimentology_.
 
-- Lencina, A., Soria, M.N., **Gomez, F.J.**, Farías, M.E., _to be submitted_. Composite Microbialites: Thrombolites, Dendrolites and Stromatolites Associations in a Modern Environment, Pozo Bravo lake, Salar de Antofalla, Catamarca Puna, Argentine. _Sedimentary Geology_.
+- Lencina, A., Soria, M.N., **Gomez, F.J.**, Farías, M.E., _submitted_. Composite Microbialites: Thrombolites, Dendrolites and Stromatolites Associations in a Modern Environment, Pozo Bravo lake, Salar de Antofalla, Catamarca Puna, Argentine. _Sedimentary Geology_.
 
 - Beeler, S.R., **Gomez, F.G.**, Bradley, A., _in review_. Geospatial insights into the controls of microbialite formation at Laguna Negra, Argentina, _Geobiology_.
 
