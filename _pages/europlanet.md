@@ -8,6 +8,8 @@ permalink: /europlanet/
 
 # Europlanet 2024 RI TA-PFA
 
+This project has received funding from the **European Union's Horizon 2020 research and innovation programme** under grant agreement No 871149.
+
 ## Trasnational Access for Planetary Field Analogues (TA-PFA)
 
 ## Cold, extreme glacial and lacustrine environments of the Andes of Argentina Puna region: Dry-cold environments
